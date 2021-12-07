@@ -1,6 +1,6 @@
 # soda
 
-[![Rust](https://github.com/snoyberg/soda/workflows/rust.yml/badge.svg)](https://github.com/snoyberg/soda/actions/workflows/rust.yml)
+[![Rust](https://github.com/snoyberg/soda/actions/workflows/rust.yml/badge.svg)](https://github.com/snoyberg/soda/actions/workflows/rust.yml)
 
 Simple command line utility for encrypting and decrypting secrets.
 
